@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as c,a as e,d as n}from"./app.2a01fc36.js";const s={},_=e("strong",null,[e("code",null,"2021"),n(" \u9ED1\u9A6C\u524D\u7AEF "),e("code",null,"v6.5")],-1),a=[_];function l(r,d){return c(),o("p",null,a)}var u=t(s,[["render",l],["__file","index.html.vue"]]);export{u as default};

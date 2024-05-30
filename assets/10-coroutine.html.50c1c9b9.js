@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,d as c,a as s}from"./app.2a01fc36.js";const n={},_=c("\u53C2\u8003 "),r=s("code",null,"https://kotlinlang.org/docs/coroutines-guide.html",-1),a=[_,r];function l(d,i){return t(),o("p",null,a)}var h=e(n,[["render",l],["__file","10-coroutine.html.vue"]]);export{h as default};

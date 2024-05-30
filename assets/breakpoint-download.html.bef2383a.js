@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as c,a as e,d as o}from"./app.2a01fc36.js";const n={},l=e("p",null,[o("\u53C2\u8003\uFF1A"),e("code",null,"XiaMiMusic"),o(" \u9879\u76EE\u4E2D\u7684 "),e("code",null,"DownloadTask.java")],-1),s=[l];function r(_,d){return c(),t("blockquote",null,s)}var u=a(n,[["render",r],["__file","breakpoint-download.html.vue"]]);export{u as default};

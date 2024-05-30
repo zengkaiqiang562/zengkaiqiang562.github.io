@@ -1,0 +1,1 @@
+import{_ as o,r as n,c as r,a,b as s,w as c,d as e,o as l}from"./app.2a01fc36.js";const _={},i=e("\u53C2\u8003\uFF1A"),m=e("Kotlin");function u(d,k){const t=n("RouterLink");return l(),r("blockquote",null,[a("p",null,[i,s(t,{to:"/zkq/kotlin/1-env-setup.html"},{default:c(()=>[m]),_:1})])])}var f=o(_,[["render",u],["__file","kotlin-program.html.vue"]]);export{f as default};
